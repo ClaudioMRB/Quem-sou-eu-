@@ -1,5 +1,5 @@
                                                                #Projeto-Innovation
 
 # Introdução ao Git & GitHub
-#### Primeiro Repositorio
-## Exercicio para conclusão de módulo.
+#### Repositório criado para desafio git/github
+#### Exercicio para conclusão de módulo.
