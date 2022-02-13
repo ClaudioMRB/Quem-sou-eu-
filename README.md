@@ -1,6 +1,6 @@
                                                                #Projeto-Innovation
 
-# Quem sou eu.
+# Quem sou eu!
 
     *Nascido na cidade de Angra dos Reis/RJ, hoje moro em Vitória/ES e desde
 pequeno eu sempre fui apaixonado por tecnologia, computador é minha paixão,
