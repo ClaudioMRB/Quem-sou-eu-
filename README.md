@@ -1,34 +1,30 @@
-                                                               #Projeto-Innovation
+                                            ***Quem sou eu!***    
 
-# Quem sou eu!
 
-    *Nascido na cidade de Angra dos Reis/RJ, hoje moro em Vitória/ES e desde
-pequeno eu sempre fui apaixonado por tecnologia, computador é minha paixão,
-porém segui uma área profissional um tanto diferente, hoje eu sou mecânico
-automotivo, uma profissão que adoro, me dedico mas não me sinto feliz nela.
-    Através de um amigo acabei me interessando por programação e acabei conhecendo a Digital Innovation One, que disponibiliza de forma gratuita ótimos cursos nessa área e hoje estou eu aqui, estudando até tarde depois de encarar um
-cansativo dia de trabalho para poder aprender essa Profissão de programador, se
-Deus quiser terei sucesso nessa caminhada e dedicação não falta!*
 
-***Meu primeiro Bootcamps...***
+  *Na*scido na cidade de Angra dos Reis/RJ, hoje moro em Vitória/ES e desde *pequeno eu sempre fui apaixonado por tecnologia, computador é minha paixão,* *porém segui uma área profissional um tanto diferente, hoje eu sou mecânico* *automotivo, uma profissão que adoro.*   Através de um amigo acabei me interessando por programação, hoje estou aqui, iniciando minha jornada , posso dizer que esse ano de 2022 está sendo ótimo para mim, pois estou ingressando no Curso Superior de Análise e Gerenciamento de Sistemas pela faculdade MULTIVIX de vitória/ES Turma 2022/2, além do curso Formação Desenvolvedor Moderno que iniciei em maio de 2022 com duração de 1 ano, pela escola Educandoweb Cursos Ltda. ([www.devsuperior.com.br](www.devsuperior.com.br)).*
 
-    *Meu primeiro curso no qual estou iniciando minha jornada rumo a futuro programador é o GFT Start #4 Java, um curso básico com duração de 56hrs e que está me possibilitando ter experiências na área da informática que nunca pensei em ter,
-estou gostando? Posso dizer que estou amando conhecer esse MUNDO novo.*
+**Formação Desenvolvedor Moderno**
 
-    *Os primeiros assuntos apresentados ate este momento do curso, esta divido
-por módulos, seguido de um exame no final de cada um, no qual testa meus
-conhecimentos obtidos com cada aula, ministrada por ótimos professores*.*
+***EMENTAS\*** 
 
-## Módulos concluídos.
+*§* *Lógica de Programação* *Introdução a programação, entrada, saída, atribuição, condicionais, loops, arrays, funções, projetos.* 
 
-● ***Boas vindas ao Bootcamp GFT Start #4 Java*** – Nível básico com duração de 1h
+*§* *Git e GitHub* *Conceitos, criação de projetos e versões, branchs, trabalho em equipe, resolução de problemas.* 
 
-● ***Lógica de programação essencial*** – Nível básico com duração de 4h
+*§* *HTML e CSS* *Introdução, tags, display, formulários, seletores, box model, flexbox, projetos.* 
 
-● ***Aprenda o que são estruturas de dados e algoritmos*** – Nível Intermediário
-com duração de 2h
+*§* *Programação moderna* *Orientação a objetos, classes, encapsulamento, composição, herança, polimorfismo, interfaces,* *programação funcional, expressões lambda, imutabilidade, coleções, projetos. Linguagem Java.* 
 
-● ***Introdução ao Git e ao GitHub*** – Nível básico com duração de 5h
+*§* *Banco de dados* *Introdução, modelo conceitual, modelo relacional, normalização, SQL, consultas, projetos.*
 
-● *<u>Primeiro Repositório criado para conclusão do projeto, onde falo um pouco
-de mim e sobre meu início em programação.</u>*
+*§* *JavaScript* *Introdução, tipos, var/let/const, strings, operadores, funções, objetos, construtores, prototype,* *classes, módulos, promises, fecth API, async/await, projetos.*
+
+*§* *Análise de sistemas* *Introdução, escopo, requisitos, casos de uso, modelagem conceitual.*
+
+*§* *Ambiente de desenvolvimento* *Linux, terminal, IDE, Docker, instalações, procedimentos.* 
+
+*§* *Back end.* *API REST, criação de projeto, sistema e componentes, injeção de dependência, CRUD e casos de* *uso, camadas, controladores, serviços, repositórios, entidades, ORM, DTO, autenticação e* *autorização, implantação. Ferramenta: Spring Boot com Java.* 
+
+*§* *Front end.* *Aplicação web, layout, navegação, rotas, requisições, CRUD e casos de uso, integrações,* *autenticação e autorização, implantação. Ferramenta: ReactJS com TypeScript.*
+
