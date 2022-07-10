@@ -6,7 +6,7 @@
 
 **Formação Desenvolvedor Moderno**
 
-***EMENTAS\*** 
+**EMENTAS\*** 
 
 *§* *Lógica de Programação* *Introdução a programação, entrada, saída, atribuição, condicionais, loops, arrays, funções, projetos.* 
 
@@ -28,3 +28,51 @@
 
 *§* *Front end.* *Aplicação web, layout, navegação, rotas, requisições, CRUD e casos de uso, integrações,* *autenticação e autorização, implantação. Ferramenta: ReactJS com TypeScript.*
 
+
+
+**Curso Superior de Tecnólogo em Análise e Gerenciamento de Sistemas.**
+
+*Data Inicio: 03/08/2022*
+
+*Instituição: Multivix*
+
+·     
+
+- ​      **1º período**
+  ​      *Int*rodução à Educação a Distância*
+  ​      *Fundamentos de Hardware*
+  ​      *Comunicação e Expressão*
+  ​      *Computação e Sociedade*
+  ​      Algoritmo e Lógica de Programação*
+  ​      
+  ​      **2º período**
+  ​      *Sist*emas Operacionais*
+  ​      *Gestão Ambiental e Responsabilidade Social*
+  ​      *Programação Orientada à Objetos I*
+  ​      *Banco de Dados I*
+  ​      *Matemática Aplicada*
+  ​      *Rede de Computadores I*
+  ​      Direito Digital*
+  ​      
+  ​      **3º período**
+  ​      *Pla*nejamento Estratégico e Inteligência Competitiva*
+  ​      *Programação Orientada à Objetos II*
+  ​      *Rede de Computadores II*
+  ​      *Banco de Dados II*
+  ​      *Análise e Projeto de Sistemas I*
+  ​      *Segurança da Informação*
+  ​      *Programação Web I*
+  ​      Práticas em Extensão e Inovação Interdisciplinar I*
+  ​      
+  ​      **4º período**
+  ​      *Audi*toria e Qualidade em Sistemas*
+  ​      *Sociologia e Relações Étnico-Raciais e Direitos Humanos*
+  ​      *Análise e Projeto de Sistema II*
+  ​      *Programação Web II*
+  ​      *Tópicos Avançados em Computação*
+  ​      *Gerenciamento de Projetos*
+  ​      *Optativa*
+  ​      *Práticas em Extensão e Inovação Interdisciplinar II*
+  ​      Estágio Supervisionado*
+
+ 
