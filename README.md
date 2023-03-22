@@ -2,11 +2,9 @@
 
 
 
-  *Na*scido na cidade de Angra dos Reis/RJ, hoje moro em Vitória/ES e desde *pequeno eu sempre fui apaixonado por tecnologia, computador é minha paixão,* *porém segui uma área profissional um tanto diferente, hoje eu sou mecânico* *automotivo, uma profissão que adoro.*   Através de um amigo acabei me interessando por programação, hoje estou aqui, iniciando minha jornada , posso dizer que esse ano de 2022 está sendo ótimo para mim, pois estou ingressando no Curso Superior de Análise e Gerenciamento de Sistemas pela faculdade MULTIVIX de vitória/ES Turma 2022/2, além do curso Formação Desenvolvedor Moderno que iniciei em maio de 2022 com duração de 1 ano, pela escola Educandoweb Cursos Ltda. ([www.devsuperior.com.br](www.devsuperior.com.br)).*
+  *Na*scido na cidade de Angra dos Reis/RJ, hoje moro em Vitória/ES e desde *pequeno sempre fui apaixonado por tecnologia, e através de um amigo acabei me interessando por programação, hoje estou aqui, iniciando minha jornada , posso dizer que o ano de 2022 foi ótimo para mim, pois iniciei o Curso Superior de Análise e Gerenciamento de Sistemas pela faculdade MULTIVIX de vitória/ES Turma 2022/2, além do curso Formação Desenvolvedor Moderno que iniciei em maio de 2022 com duração de 1 ano, pela escola Educandoweb Cursos Ltda. ([www.devsuperior.com.br](www.devsuperior.com.br)).*
 
 **Formação Desenvolvedor Moderno**
-
-**EMENTAS\*** 
 
 *§* *Lógica de Programação* *Introdução a programação, entrada, saída, atribuição, condicionais, loops, arrays, funções, projetos.* 
 
@@ -36,43 +34,41 @@
 
 *Instituição: Multivix*
 
-·     
-
-- ​      **1º período**
-  ​      *Int*rodução à Educação a Distância*
-  ​      *Fundamentos de Hardware*
-  ​      *Comunicação e Expressão*
-  ​      *Computação e Sociedade*
-  ​      Algoritmo e Lógica de Programação*
-  ​      
-  ​      **2º período**
-  ​      *Sist*emas Operacionais*
-  ​      *Gestão Ambiental e Responsabilidade Social*
-  ​      *Programação Orientada à Objetos I*
-  ​      *Banco de Dados I*
-  ​      *Matemática Aplicada*
-  ​      *Rede de Computadores I*
-  ​      Direito Digital*
-  ​      
-  ​      **3º período**
-  ​      *Pla*nejamento Estratégico e Inteligência Competitiva*
-  ​      *Programação Orientada à Objetos II*
-  ​      *Rede de Computadores II*
-  ​      *Banco de Dados II*
-  ​      *Análise e Projeto de Sistemas I*
-  ​      *Segurança da Informação*
-  ​      *Programação Web I*
-  ​      Práticas em Extensão e Inovação Interdisciplinar I*
-  ​      
-  ​      **4º período**
-  ​      *Audi*toria e Qualidade em Sistemas*
-  ​      *Sociologia e Relações Étnico-Raciais e Direitos Humanos*
-  ​      *Análise e Projeto de Sistema II*
-  ​      *Programação Web II*
-  ​      *Tópicos Avançados em Computação*
-  ​      *Gerenciamento de Projetos*
-  ​      *Optativa*
-  ​      *Práticas em Extensão e Inovação Interdisciplinar II*
-  ​      Estágio Supervisionado*
+​      **1º período** {Concluído}
+​      *Int*rodução à Educação a Distância*
+​      *Fundamentos de Hardware*
+​      *Comunicação e Expressão*
+​      *Computação e Sociedade*
+​      Algoritmo e Lógica de Programação*
+​      
+​      **2º período**
+​      *Sist*emas Operacionais*
+​      *Gestão Ambiental e Responsabilidade Social*
+​      *Programação Orientada à Objetos I*
+​      *Banco de Dados I*
+​      *Matemática Aplicada*
+​      *Rede de Computadores I*
+​      Direito Digital*
+​      
+​      **3º período**
+​      *Pla*nejamento Estratégico e Inteligência Competitiva*
+​      *Programação Orientada à Objetos II*
+​      *Rede de Computadores II*
+​      *Banco de Dados II*
+​      *Análise e Projeto de Sistemas I*
+​      *Segurança da Informação*
+​      *Programação Web I*
+​      Práticas em Extensão e Inovação Interdisciplinar I*
+​      
+​      **4º período**
+​      *Audi*toria e Qualidade em Sistemas*
+​      *Sociologia e Relações Étnico-Raciais e Direitos Humanos*
+​      *Análise e Projeto de Sistema II*
+​      *Programação Web II*
+​      *Tópicos Avançados em Computação*
+​      *Gerenciamento de Projetos*
+​      *Optativa*
+​      *Práticas em Extensão e Inovação Interdisciplinar II*
+​      Estágio Supervisionado*
 
  
