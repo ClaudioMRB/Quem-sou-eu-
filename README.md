@@ -41,7 +41,7 @@
 ​      *Computação e Sociedade*
 ​      Algoritmo e Lógica de Programação*
 ​      
-​      **2º período**
+​      **2º período** {Concluído}
 ​      *Sist*emas Operacionais*
 ​      *Gestão Ambiental e Responsabilidade Social*
 ​      *Programação Orientada à Objetos I*
@@ -50,8 +50,8 @@
 ​      *Rede de Computadores I*
 ​      Direito Digital*
 ​      
-​      **3º período**
-​      *Pla*nejamento Estratégico e Inteligência Competitiva*
+​      **3º período** {Cursando}
+​      *Planejamento Estratégico e Inteligência Competitiva*
 ​      *Programação Orientada à Objetos II*
 ​      *Rede de Computadores II*
 ​      *Banco de Dados II*
