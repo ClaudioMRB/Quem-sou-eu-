@@ -2,7 +2,11 @@
 
 
 
-  *Na*scido na cidade de Angra dos Reis/RJ, hoje moro em Vitória/ES e desde *pequeno sempre fui apaixonado por tecnologia, e através de um amigo acabei me interessando por programação, hoje estou aqui, iniciando minha jornada , posso dizer que o ano de 2022 foi ótimo para mim, pois iniciei o Curso Superior de Análise e Gerenciamento de Sistemas pela faculdade MULTIVIX de vitória/ES Turma 2022/2, além do curso Formação Desenvolvedor Moderno que iniciei em maio de 2022 com duração de 1 ano, pela escola Educandoweb Cursos Ltda. ([www.devsuperior.com.br](www.devsuperior.com.br)).*
+  *Olá, sou Claudio Marcio Raimundo Bastos, um entusiasta apaixonado pela tecnologia e animado em iniciar minha jornada profissional neste campo emocionante.
+Sou aluno de Análise e desenvolvimento de sistemas com uma base sólida em Java, estou ansioso para aplicar meu conhecimento em um ambiente prático e desafiador.
+Minha abordagem proativa para aprender e minha paixão por resolver problemas me impulsionam a enfrentar novos desafios. Estou comprometido em desenvolver minhas habilidades em programação e contribuir para projetos inovadores.
+Se você procura um profissional motivado, com mentalidade de aprendizado e entusiasmo para crescer na área de tecnologia, ficarei feliz em conectar-me. Estou aberto a oportunidades de estágio ou posições iniciais que me permitam aprender, crescer e contribuir de maneira significativa.
+Vamos explorar como posso ser parte do seu time e ajudar a impulsionar projetos emocionantes. Estou animado para fazer parte da comunidade de tecnologia e construir uma carreira sólida neste campo dinâmico.*
 
 **Formação Desenvolvedor Moderno**
 
